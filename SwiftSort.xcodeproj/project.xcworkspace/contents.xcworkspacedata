@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swifttest.xcodeproj">
+      location = "self:/Users/mark/Workspace/swift/test/swifttest/SwiftSort.xcodeproj">
    </FileRef>
 </Workspace>
